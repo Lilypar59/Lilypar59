@@ -2,7 +2,7 @@
 
 # Hello, World! 👋
 
-I'm [Lily Alejandra Pardo] 👩‍💻, a software developer  and continuous learning.
+I'm [Lily Alejandra Pardo] , a software developer  and continuous learning.
 
 
 ## 🔧 Tech Stack:
