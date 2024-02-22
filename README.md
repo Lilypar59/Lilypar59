@@ -4,8 +4,6 @@
 
 I'm [Lily Alejandra Pardo] 👩‍💻, a software developer  and continuous learning.
 
-<h3 align="center">A passionate frontend developer from Colombia</h3>
-
 
 ## 🔧 Tech Stack:
 
