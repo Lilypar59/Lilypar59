@@ -28,5 +28,5 @@ I'm [Lily Alejandra Pardo] , a software developer  and continuous learning.
 Feel free to explore my GitHub profile and contact me if you have any questions or comments. I'm excited to get to know you.
 Learning in a community is the best.
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/lilypardo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lilypardo/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lilypardo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lilypardo/" height="30" width="40" /></a>
 </p>
