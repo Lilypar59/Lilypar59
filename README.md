@@ -10,7 +10,7 @@ I'm [Lily Alejandra Pardo] , a software developer  and continuous learning.
 
 
 > [![My Skills](https://skillicons.dev/icons?i=cs,py,java,js,html,css,bootstrap,angular,react)](https://skillicons.dev)
-> > [![My Skills](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev)
+>  [![My Skills](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev)
 
 > [![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev) <img src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" alt="SQL Server" width="50" height="50">
 
